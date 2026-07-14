@@ -1,0 +1,8 @@
+../Core/Src/file_browser.c:18:13:display_bmp	1448	static
+../Core/Src/file_browser.c:83:13:txt_save_progress	592	static
+../Core/Src/file_browser.c:96:17:txt_load_progress	624	static
+../Core/Src/file_browser.c:119:17:txt_skip_utf8_bom	32	static
+../Core/Src/file_browser.c:133:13:display_txt_paged	944	static
+../Core/Src/file_browser.c:270:13:fb_render_filelist	64	static
+../Core/Src/file_browser.c:299:6:FB_Init	96	static
+../Core/Src/file_browser.c:343:6:FB_Run	80	static

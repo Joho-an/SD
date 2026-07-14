@@ -1,0 +1,8 @@
+../Core/Src/file_browser.c:18:13:display_bmp	14
+../Core/Src/file_browser.c:83:13:txt_save_progress	2
+../Core/Src/file_browser.c:96:17:txt_load_progress	8
+../Core/Src/file_browser.c:119:17:txt_skip_utf8_bom	5
+../Core/Src/file_browser.c:133:13:display_txt_paged	27
+../Core/Src/file_browser.c:270:13:fb_render_filelist	10
+../Core/Src/file_browser.c:299:6:FB_Init	8
+../Core/Src/file_browser.c:343:6:FB_Run	24

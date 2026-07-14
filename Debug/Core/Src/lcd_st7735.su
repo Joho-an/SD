@@ -1,0 +1,13 @@
+../Core/Src/lcd_st7735.c:118:6:LCD_WriteCmd	16	static
+../Core/Src/lcd_st7735.c:126:6:LCD_WriteData	16	static
+../Core/Src/lcd_st7735.c:135:13:LCD_ColorToBytes	24	static
+../Core/Src/lcd_st7735.c:141:13:LCD_WriteData16	24	static
+../Core/Src/lcd_st7735.c:153:13:LCD_Reset	32	static
+../Core/Src/lcd_st7735.c:173:6:LCD_Init	8	static
+../Core/Src/lcd_st7735.c:285:6:LCD_SetAddrWindow	32	static
+../Core/Src/lcd_st7735.c:307:6:LCD_DrawPixel	16	static
+../Core/Src/lcd_st7735.c:314:6:LCD_Fill	304	static
+../Core/Src/lcd_st7735.c:350:6:LCD_FillScreen	24	static
+../Core/Src/lcd_st7735.c:357:6:LCD_DrawChar	136	static
+../Core/Src/lcd_st7735.c:396:6:LCD_DrawString	40	static
+../Core/Src/lcd_st7735.c:411:6:LCD_WritePixels	280	static

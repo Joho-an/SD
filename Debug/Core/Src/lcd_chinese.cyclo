@@ -1,0 +1,4 @@
+../Core/Src/lcd_chinese.c:7:5:LCD_OpenHZK	2
+../Core/Src/lcd_chinese.c:14:6:LCD_CloseHZK	1
+../Core/Src/lcd_chinese.c:26:5:LCD_GetChineseBitmap	7
+../Core/Src/lcd_chinese.c:51:6:LCD_DrawChinese	5
